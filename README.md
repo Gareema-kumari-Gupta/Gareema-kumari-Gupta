@@ -7,9 +7,10 @@
   alt="Hello! I'm"
 />
 
-<h1 style="color:2ea043; font-size:54px; margin-top:0;">
-  Gareema Kumari Gupta
-</h1>
+<img 
+  src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=700&text=Gareema%20Kumari%20Gupta" 
+  alt="Gareema Kumari Gupta"
+/>
 
 </div>
   </a>
