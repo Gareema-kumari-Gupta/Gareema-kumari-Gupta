@@ -7,7 +7,7 @@
   alt="Hello! I'm"
 />
 
-<h1 style="color:#2ea043; font-size:54px; margin-top:0;">
+<h1 style="color:2ea043; font-size:54px; margin-top:0;">
   Gareema Kumari Gupta
 </h1>
 
