@@ -1,7 +1,13 @@
 <p align="center">
   <a href="https://github.com/Gareema-kumari-Gupta">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm%20Gareema%20Kumari%20Gupta" alt="Hello! I'm Gareema Kumari Gupta"
+    <img 
+  src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" 
+  alt="Hello! I'm"
 />
+
+<h1 style="color: #2ea043; font-size: 54px;">
+  Gareema Kumari Gupta
+</h1>
   </a>
 </p>
 
