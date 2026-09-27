@@ -37,7 +37,7 @@ Real-time hand gesture recognition system built from scratch using computer visi
 **Stack:** Python, OpenCV, MediaPipe
 **Highlights:** Custom gesture classification pipeline, real-time landmark tracking
 
-[`View Repository →`]((https://github.com/Gareema-kumari-Gupta/ALCHEMIA))
+[`View Repository →`](https://github.com/Gareema-kumari-Gupta/ALCHEMIA)
 
 </td>
 <td width="50%" valign="top">
@@ -48,12 +48,24 @@ End-to-end hotel management application covering bookings, records, and administ
 **Stack:** Python, SQL
 **Highlights:** Full CRUD system, relational schema design, built solo start to finish
 
-[`View Repository →`](https://github.com/Gareema-kumari-Gupta)
+[`View Repository →`](https://github.com/Gareema-kumari-Gupta/InnKeeper)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+### Fitness Tracker Platform
+Backend architecture for a fitness tracking platform, built and led as part of a development team.
+ 
+**Stack:** Python, FastAPI, PostgreSQL
+**Highlights:** Team leadership, scalable API design, production-oriented architecture
+ 
+[`View Repository →`](https://github.com/Gareema-kumari-Gupta)
+ 
+</td>
+<td width="50%" valign="top">
+
 
 ### 🔧 More on GitHub
 Explore additional projects, experiments, and contributions across backend systems and automation.
