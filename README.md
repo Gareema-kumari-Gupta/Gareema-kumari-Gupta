@@ -31,18 +31,18 @@ I care about building things that hold up under real use: clean APIs, sensible d
 <tr>
 <td width="50%" valign="top">
 
-### 🖐️ Hand Gesture Detection
+### ALCHEMIA
 Real-time hand gesture recognition system built from scratch using computer vision fundamentals.
 
 **Stack:** Python, OpenCV, MediaPipe
 **Highlights:** Custom gesture classification pipeline, real-time landmark tracking
 
-[`View Repository →`](https://github.com/Gareema-kumari-Gupta)
+[`View Repository →`]((https://github.com/Gareema-kumari-Gupta/ALCHEMIA))
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 Hotel Management System
+### Innkeeper
 End-to-end hotel management application covering bookings, records, and administration.
 
 **Stack:** Python, SQL
@@ -53,17 +53,6 @@ End-to-end hotel management application covering bookings, records, and administ
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🏋️ Fitness Tracker Platform
-Backend architecture for a fitness tracking platform, built and led as part of a development team.
-
-**Stack:** Python, FastAPI, PostgreSQL
-**Highlights:** Team leadership, scalable API design, production-oriented architecture
-
-[`View Repository →`](https://github.com/Gareema-kumari-Gupta)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🔧 More on GitHub
