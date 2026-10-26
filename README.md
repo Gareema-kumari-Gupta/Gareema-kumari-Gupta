@@ -13,9 +13,6 @@
 <a href="https://linkedin.com/in/gareema-kumari-gupta">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-<a href="https://instagram.com/hey_itsgareema">
-<img src="https://img.shields.io/badge/Instagram-Follow-DB2777?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
-</a>
 <a href="mailto:gareema.k.gupta@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
 </a>
